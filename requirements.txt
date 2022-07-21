@@ -1,0 +1,9 @@
+ortools
+pyomo
+numpy
+pandas
+openpyxl
+geneticalgorithm
+pyswarm
+
+
